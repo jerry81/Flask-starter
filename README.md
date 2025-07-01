@@ -31,3 +31,7 @@ pip install flask
 ```
 pip freeze > requirements.txt
 ```
+
+## note aboute packages
+
+- jinja for HTML templating
